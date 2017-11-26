@@ -1,0 +1,13 @@
+body {
+    background: tan;
+    margin-left: 80px;
+}
+
+img {
+    margin: 30px;
+    border: 5px solid CornSilk;
+}
+
+img:hover {
+    display: inline;
+}
